@@ -13,5 +13,5 @@
 
 
 
-alert(estUse(200))
+alert(estUse(9000))
 
